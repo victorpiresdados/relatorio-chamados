@@ -78,11 +78,4 @@ Este foi meu primeiro projeto em Python, construído passo a passo:
 - Organizar o código em funções com parâmetros
 - Usar dicionários e loops (`for`) para aplicar a mesma regra a várias categorias
 
-## Próximos passos
-
-- [ ] Exportar o relatório para Excel
-- [ ] Filtrar por período (ex.: só o último mês)
-- [ ] Gerar gráficos
-- [ ] Criar uma versão web com Streamlit
-
 > Os dados são fictícios, gerados automaticamente para fins de estudo.
